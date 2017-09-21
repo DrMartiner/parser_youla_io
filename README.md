@@ -1,6 +1,6 @@
 # To run
 
 ```
-mkdir images
+pip install -r requirements.txt
 scrapy crawl flat
 ```
